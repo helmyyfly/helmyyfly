@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **helmyzx6@gmai.com**
+- 📫 How to reach me **helmyzx6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
