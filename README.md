@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/helmy machiavelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helmy machiavelli" height="30" width="40" /></a>
-<a href="https://fb.com/helmyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="helmyy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/helmy-machiavelli-43b719311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helmy machiavelli" height="30" width="40" /></a>
+<a href="https://www.facebook.com/helmy.said.750983/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="helmyy" height="30" width="40" /></a>
 <a href="https://instagram.com/@helmy.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@helmy.js" height="30" width="40" /></a>
 </p>
 
